@@ -24,4 +24,4 @@ After graduation, I spent most of 2024 traveling, continually learning through o
 Outside of work, I love **reading** (currently reading *The Overstory* by Richard Powers!). Writing is also a passion of mine, and one of my life goals is to publish at least one book. For now, I’m working on starting a blog this year. I’m also passionate about **Pilates**, **Barre**, and **Yoga**, with plans to get certified as a **Yoga Instructor** within the next five years!
 
 ### 💬 Let's Connect!
-Feel free to reach out if you'd like to collaborate, chat about **AI**, **software engineering**, or any interesting projects!
+Feel free to reach out if you'd like to collaborate, chat about **AI**, **software engineering**, or any interesting projects! Feel free to message me on LinkedIn or email me at goel.prashansa@gmail.com
