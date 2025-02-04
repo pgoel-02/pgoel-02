@@ -1,8 +1,6 @@
 ## Hi, I'm Prashansa Goel 👋
 
-I'm a Computer Science graduate from UC Davis with an interest in **software engineering** and **AI**. 
-
-Here's a bit about myself and what I've been working on:
+I'm a Computer Science graduate from UC Davis with an interest in **software engineering** and **AI**. Here's a bit about myself and what I've been working on:
 
 ### 👩🏽‍💻 Current Work
 I'm currently building a **file-agnostic RAG solution** in Python, exploring innovative approaches to enhance data processing and integration. 
