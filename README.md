@@ -12,10 +12,10 @@ I most recently developed an **AI-powered Chrome extension** to promote active r
 I’m passionate about the **startup world**. I had the privilege of doing a fellowship at **True Ventures**, an SF-based early-stage venture capital firm, and spent **1.5 years** doing web development for the firm. My work primarily involved **Ruby on Rails**, **Python**, and AI models like **Claude** and **GPT**, along with high-level design tasks for search functionality. I’m eager to dive deeper into the startup ecosystem and contribute as an engineer to companies making a real impact.
 
 ### 🧬 AI Research
-I have over **2 years of AI research experience**, specializing in **bioinformatics**. My research focuses on developing AI optimization approaches to address challenges in genome assembly.
+I have over **2 years of AI research experience**, specializing in **bioinformatics**. My research focuses on developing AI optimization approaches in **Python** (using Pandas, cuDF, and PyTorch) for removing secondary haplotigs during diploid genome assembly and scaffolding. Through this project, I also gained experience with High Performance Computing (HPC) while scaling execution across multiple cores and Python multi-processing techniques to parallelize execution. 
 
 ### 💡 Self-Starter
-During my time at UC Davis, I identified a gap in the Computer Science curriculum, so I **pitched, designed, and taught** a new course to fill that gap. I also served as **President** of a technical student organization, growing membership by over **560%** in just one year and leading a team of 12. I’m eager to bring this same energy and drive to a company working on exciting, impactful projects.
+During my time at UC Davis, I identified a gap in the Computer Science curriculum, so I **pitched, designed, and taught** a new algorithms class with **45+ undergraduate students** to fill that gap. I also served as **President** of a technical student organization (Google Developer Student Clubs @ UC Davis), growing membership by over **560%** in just one year and leading a team of 12. I’m eager to bring this same energy and drive to a company working on exciting, impactful projects.
 
 ### 🏠 Personal Journey
 After graduation, I spent most of 2024 traveling, continually learning through online courses and tech newsletters, and being with family, serving as the **primary caretaker** for my parent during a long-term hospitalization. Now that things have stabilized, I'm fully focused on my job search and eager to explore roles in Software Engineering and AI.
