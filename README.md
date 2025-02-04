@@ -21,7 +21,7 @@ During my time at UC Davis, I identified a gap in the Computer Science curriculu
 After graduation, I spent most of 2024 traveling, continually learning through online courses and tech newsletters, and being with family, serving as the **primary caretaker** for my parent during a long-term hospitalization. Now that things have stabilized, I'm fully focused on my job search and eager to explore roles in Software Engineering and AI.
 
 ### 📚 Hobbies/Personal Goals
-Outside of work, I love **reading** (currently reading *The Overstory* by Richard Powers!). Writing is also a passion of mine, and one of my life goals is to publish at least one book. For now, I’m working on starting a blog this year. I also do **Pilates**, **Barre**, and **Yoga**, with plans to get certified as a **Yoga Instructor** within the next five years!
+Outside of work, I love reading (currently reading _The Overstory by Richard Powers_!). I have also always found comfort in writing, though I haven't published most of my pieces yet. This year, I'm pushing myself out of my comfort zone by starting a blog — a small step towards hopefully publishing a book in the future (one of my life goals). I also enjoy Pilates, Barre, and Yoga, with plans to get certified as a **Yoga Instructor** within the next few years!
 
 ### 💬 Let's Connect!
 Feel free to reach out if you'd like to collaborate, chat about **AI**, **software engineering**, or any interesting projects! Feel free to message me on LinkedIn or email me at goel.prashansa@gmail.com
